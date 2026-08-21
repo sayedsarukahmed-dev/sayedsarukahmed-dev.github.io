@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sayedsarukahmed.sharemarket",
+        "sha256_cert_fingerprints": ["1D:16:B5:BB:E8:93:73:E4:C6:9E:29:8D:5B:A4:F3:DF:63:7D:25:AE:13:55:69:E8:1A:3B:FF:42:CC:DC:37:01"]
+      }
+    }]
